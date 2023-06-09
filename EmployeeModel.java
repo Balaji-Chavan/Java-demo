@@ -34,5 +34,6 @@ public class EmployeeModel {
 	    public void setSalary(String salary) {
 	        this.salary = salary;
 	        int a =10;
+	        int b =23;
 	    }
 }
